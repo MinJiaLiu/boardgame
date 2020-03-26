@@ -25,6 +25,6 @@ Tic tac toe and Order and Chaos
 4. Piece- Pieces on the board with symbol being how they are displayed, and values.
  (for these two games , value are set to 0 since they dont matter.)
 
-5. Player- holds info about player through Name class and Piece class (the piece they choosen) and their socre.
+5. Player- holds info about player through Name class and Piece class (the piece they choosen) and their score.
 
 6.Play- Where the game is executed and setup. 
