@@ -7,7 +7,7 @@ Tic tac toe and Order and Chaos
 
 2.Fill in the input for name and select game(1,2). 
 
-3. If tic tac toe is choosen player 1 gets to choose their piece and same for order and chaos.(however, afterward, losers of previous game will get to start first. Player can only rechoose pieces for tic tac toe if they just went from order and chaos back to tic tac toe).
+3.If tic tac toe is choosen player 1 gets to choose their piece and same for order and chaos.(however, afterward, losers of previous game will get to start first. Player can only rechoose pieces for tic tac toe if they just went from order and chaos back to tic tac toe).
 
 4.Sample board will be given to show where postion is. Each player takes turn to play game.
 
