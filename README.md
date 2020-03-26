@@ -2,18 +2,16 @@
 Tic tac toe and Order and Chaos
 
 --HOW TO EXCEUCTE FILE 
+
 1.Compile the play class and run the main function. (java Play)
 
 2.Fill in the input for name and select game(1,2). 
 
-3. If tic tac toe is choosen player 1 gets to choose their piece and same for order and chaos. 
-(however, afterward, losers of previous game will get to start first. Player can only rechoose 
-pieces for tic tac toe if they just went from order and chaos back to tic tac toe).
+3. If tic tac toe is choosen player 1 gets to choose their piece and same for order and chaos.(however, afterward, losers of previous game will get to start first. Player can only rechoose pieces for tic tac toe if they just went from order and chaos back to tic tac toe).
 
 4.Sample board will be given to show where postion is. Each player takes turn to play game.
 
-5. End of the game, player will be ask if they want to play again, if they choose no, they can 
-  choose to choose another game or return the result of total wins from both games.
+5. End of the game, player will be ask if they want to play again, if they choose no, they can choose to choose another game or return the result of total wins from both games.
 
 --Class Implemented
 
