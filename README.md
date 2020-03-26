@@ -11,7 +11,7 @@ Tic tac toe and Order and Chaos
 
 4.Sample board will be given to show where postion is. Each player takes turn to play game.
 
-5. End of the game, player will be ask if they want to play again, if they choose no, they can choose to choose another game or return the result of total wins from both games.
+5.End of the game, player will be ask if they want to play again, if they choose no, they can choose to choose another game or return the result of total wins from both games.
 
 --Class Implemented
 
